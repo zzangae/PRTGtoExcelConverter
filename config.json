@@ -1,5 +1,5 @@
 {
-    "prtg_server": "<PRTG SERVER>",
-    "username": "<USER NAME>",
-    "password": "<PASSWORD>"
+    "prtg_server": "PRTG SERVER",
+    "username": "USER NAME",
+    "password": "PASSWORD"
 }
